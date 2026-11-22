@@ -15,11 +15,10 @@
 
 | Name | Role & Core Responsibilities | GitHub / Profile |
 | :--- | :--- | :--- |
-| **Pranjal Sharma** | AI Architecture, Microsoft Foundry Agent & Full-Stack Integration | [@Pranjal-sh-git](https://github.com/Pranjal-sh-git) |
-| **Dilpreet Singh** | Frontend UI/UX, Telemetry Views & Responsible AI Evaluation | Contributor |
+| **Paavni Ramdev** | AI Architecture, Microsoft Foundry Agent & Full-Stack Integration | Frontend UI/UX, Telemetry Views & Responsible AI Evaluation | Contributor |
 | **Maneshwar Singh** | Multimodal Vision & Open-World Recognition Engineering | Contributor |
 | **Garima** | Video Intelligence, ASR Indexing & Temporal Moment Retrieval | Contributor |
-| **Paavni Ramdev** | Azure AI Search, Hybrid Vector Indexing & Evaluation Pipeline | Contributor |
+| **Pranjal Sharma** | Azure AI Search, Hybrid Vector Indexing & Evaluation Pipeline | Contributor |
 
 ---
 
